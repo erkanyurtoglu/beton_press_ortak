@@ -37,6 +37,7 @@
             this.btnCatiKiremitEgilme = new System.Windows.Forms.Button();
             this.btnBordurEgilme = new System.Windows.Forms.Button();
             this.btnYigmaTuglaBasinc = new System.Windows.Forms.Button();
+            this.btnTurkceDil = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnKupSilindirBasinc
@@ -130,6 +131,17 @@
             this.btnYigmaTuglaBasinc.Text = "Yığma Tuğla Basınç Dayanımı";
             this.btnYigmaTuglaBasinc.UseVisualStyleBackColor = true;
             // 
+            // btnTurkceDil
+            // 
+            this.btnTurkceDil.BackColor = System.Drawing.Color.Red;
+            this.btnTurkceDil.ForeColor = System.Drawing.SystemColors.Control;
+            this.btnTurkceDil.Location = new System.Drawing.Point(81, 50);
+            this.btnTurkceDil.Name = "btnTurkceDil";
+            this.btnTurkceDil.Size = new System.Drawing.Size(65, 52);
+            this.btnTurkceDil.TabIndex = 9;
+            this.btnTurkceDil.Text = "Türkçe";
+            this.btnTurkceDil.UseVisualStyleBackColor = false;
+            // 
             // s
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -137,6 +149,7 @@
             this.BackgroundImage = global::BetonPressTest.Properties.Resources.LİYA__1_;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1006, 553);
+            this.Controls.Add(this.btnTurkceDil);
             this.Controls.Add(this.btnYigmaTuglaBasinc);
             this.Controls.Add(this.btnBordurEgilme);
             this.Controls.Add(this.btnCatiKiremitEgilme);
@@ -163,6 +176,7 @@
         private System.Windows.Forms.Button btnCatiKiremitEgilme;
         private System.Windows.Forms.Button btnBordurEgilme;
         private System.Windows.Forms.Button btnYigmaTuglaBasinc;
+        private System.Windows.Forms.Button btnTurkceDil;
     }
 }
 

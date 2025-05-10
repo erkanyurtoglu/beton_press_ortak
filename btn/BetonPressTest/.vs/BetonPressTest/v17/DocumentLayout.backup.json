@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{8C6CC856-CCA1-48FB-A3A9-4BCF07B94574}|BetonPressTest\\BetonPressTest.csproj|solutionrelative:betonpresstest\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8C6CC856-CCA1-48FB-A3A9-4BCF07B94574}|BetonPressTest\\BetonPressTest.csproj|c:\\users\\abaci\\onedrive\\tiedostot\\github\\beton_press\\betonpresstest\\betonpresstest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C6CC856-CCA1-48FB-A3A9-4BCF07B94574}|BetonPressTest\\BetonPressTest.csproj|solutionrelative:betonpresstest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C6CC856-CCA1-48FB-A3A9-4BCF07B94574}|BetonPressTest\\BetonPressTest.csproj|C:\\Users\\abaci\\OneDrive\\Tiedostot\\GitHub\\Beton_Press\\BetonPressTest\\betonpresstest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C6CC856-CCA1-48FB-A3A9-4BCF07B94574}|BetonPressTest\\BetonPressTest.csproj|solutionrelative:betonpresstest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,8 +30,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\abaci\\OneDrive\\Tiedostot\\GitHub\\Beton_Press\\BetonPressTest\\BetonPressTest\\Form1.cs",
+              "RelativeDocumentMoniker": "BetonPressTest\\Form1.cs",
+              "ToolTip": "C:\\Users\\abaci\\OneDrive\\Tiedostot\\GitHub\\Beton_Press\\BetonPressTest\\BetonPressTest\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "BetonPressTest\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:43:58.419Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -46,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\abaci\\OneDrive\\Tiedostot\\GitHub\\Beton_Press\\BetonPressTest\\BetonPressTest\\Program.cs",
               "RelativeDocumentMoniker": "BetonPressTest\\Program.cs",
@@ -54,24 +78,22 @@
               "RelativeToolTip": "BetonPressTest\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T22:00:49.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T22:00:49.171Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "startPage.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\abaci\\OneDrive\\Tiedostot\\GitHub\\Beton_Press\\BetonPressTest\\BetonPressTest\\startPage.cs",
               "RelativeDocumentMoniker": "BetonPressTest\\startPage.cs",
               "ToolTip": "C:\\Users\\abaci\\OneDrive\\Tiedostot\\GitHub\\Beton_Press\\BetonPressTest\\BetonPressTest\\startPage.cs [Tasar\u0131m]",
               "RelativeToolTip": "BetonPressTest\\startPage.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T21:51:50.275Z",
-              "EditorCaption": " [Tasar\u0131m]"
+              "WhenOpened": "2025-05-09T21:51:50.275Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "main.cs",
               "DocumentMoniker": "C:\\Users\\abaci\\OneDrive\\Tiedostot\\GitHub\\Beton_Press\\BetonPressTest\\BetonPressTest\\main.cs",
               "RelativeDocumentMoniker": "BetonPressTest\\main.cs",
@@ -79,8 +101,7 @@
               "RelativeToolTip": "BetonPressTest\\main.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAArwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T21:33:06.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T21:33:06.295Z"
             }
           ]
         }
