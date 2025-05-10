@@ -38,6 +38,7 @@
             this.btnBordurEgilme = new System.Windows.Forms.Button();
             this.btnYigmaTuglaBasinc = new System.Windows.Forms.Button();
             this.btnTurkceDil = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnKupSilindirBasinc
@@ -142,6 +143,17 @@
             this.btnTurkceDil.Text = "Türkçe";
             this.btnTurkceDil.UseVisualStyleBackColor = false;
             // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.Color.Blue;
+            this.button1.ForeColor = System.Drawing.SystemColors.Control;
+            this.button1.Location = new System.Drawing.Point(81, 108);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(65, 52);
+            this.button1.TabIndex = 10;
+            this.button1.Text = "Eng";
+            this.button1.UseVisualStyleBackColor = false;
+            // 
             // s
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -149,6 +161,7 @@
             this.BackgroundImage = global::BetonPressTest.Properties.Resources.LİYA__1_;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1006, 553);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.btnTurkceDil);
             this.Controls.Add(this.btnYigmaTuglaBasinc);
             this.Controls.Add(this.btnBordurEgilme);
@@ -177,6 +190,7 @@
         private System.Windows.Forms.Button btnBordurEgilme;
         private System.Windows.Forms.Button btnYigmaTuglaBasinc;
         private System.Windows.Forms.Button btnTurkceDil;
+        private System.Windows.Forms.Button button1;
     }
 }
 
