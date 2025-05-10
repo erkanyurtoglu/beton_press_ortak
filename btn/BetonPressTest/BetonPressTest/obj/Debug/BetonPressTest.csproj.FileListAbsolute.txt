@@ -1,0 +1,11 @@
+C:\Users\abaci\OneDrive\Tiedostot\GitHub\Beton_Press\BetonPressTest\BetonPressTest\bin\Debug\BetonPressTest.exe.config
+C:\Users\abaci\OneDrive\Tiedostot\GitHub\Beton_Press\BetonPressTest\BetonPressTest\bin\Debug\BetonPressTest.exe
+C:\Users\abaci\OneDrive\Tiedostot\GitHub\Beton_Press\BetonPressTest\BetonPressTest\bin\Debug\BetonPressTest.pdb
+C:\Users\abaci\OneDrive\Tiedostot\GitHub\Beton_Press\BetonPressTest\BetonPressTest\obj\Debug\BetonPressTest.csproj.AssemblyReference.cache
+C:\Users\abaci\OneDrive\Tiedostot\GitHub\Beton_Press\BetonPressTest\BetonPressTest\obj\Debug\BetonPressTest.main.resources
+C:\Users\abaci\OneDrive\Tiedostot\GitHub\Beton_Press\BetonPressTest\BetonPressTest\obj\Debug\BetonPressTest.Properties.Resources.resources
+C:\Users\abaci\OneDrive\Tiedostot\GitHub\Beton_Press\BetonPressTest\BetonPressTest\obj\Debug\BetonPressTest.startPage.resources
+C:\Users\abaci\OneDrive\Tiedostot\GitHub\Beton_Press\BetonPressTest\BetonPressTest\obj\Debug\BetonPressTest.csproj.GenerateResource.cache
+C:\Users\abaci\OneDrive\Tiedostot\GitHub\Beton_Press\BetonPressTest\BetonPressTest\obj\Debug\BetonPressTest.csproj.CoreCompileInputs.cache
+C:\Users\abaci\OneDrive\Tiedostot\GitHub\Beton_Press\BetonPressTest\BetonPressTest\obj\Debug\BetonPressTest.exe
+C:\Users\abaci\OneDrive\Tiedostot\GitHub\Beton_Press\BetonPressTest\BetonPressTest\obj\Debug\BetonPressTest.pdb
