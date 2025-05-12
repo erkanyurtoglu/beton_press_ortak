@@ -103,6 +103,16 @@ namespace BetonPressTest.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap LİYA__2_ {
+            get {
+                object obj = ResourceManager.GetObject("LİYA (2)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap Program_açılıyor_lütfen_bekleyiniz_____ {
             get {
                 object obj = ResourceManager.GetObject("Program açılıyor lütfen bekleyiniz.....", resourceCulture);
